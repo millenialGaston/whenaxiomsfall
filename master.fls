@@ -46,6 +46,8 @@ INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg
 INPUT /home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc
 INPUT /home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
+INPUT /usr/share/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/share/texmf-dist/tex/latex/comment/comment.sty
 INPUT /home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/courier-prime.luc
 INPUT /home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/courier-prime-bold-italic.luc
 INPUT /home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/courier-prime-bold.luc
@@ -61,6 +63,8 @@ INPUT ./morning.tex
 INPUT ./morning.tex
 INPUT ./brunch.tex
 INPUT ./brunch.tex
+INPUT ./Nid.tex
+INPUT ./Nid.tex
 INPUT ./dialoguePostNid.tex
 INPUT ./dialoguePostNid.tex
 INPUT ./master.aux
