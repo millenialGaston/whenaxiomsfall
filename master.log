@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Arch Linux)  (format=lualatex 2020.3.30)  4 APR 2020 21:51
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Arch Linux)  (format=lualatex 2020.3.30)  6 APR 2020 15:08
  restricted system commands enabled.
  file:line:error style messages enabled.
 **master.tex
@@ -56,7 +56,7 @@ Lua module: luaotfload-multiscript 2019-09-13 3.00 luaotfload submodule / multis
 cript
 Inserting `luaotfload.rewrite_fontname' at position 5 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.096 seconds
+luaotfload | main : initialization completed in 0.094 seconds
 (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/size10.clo
@@ -444,7 +444,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
  []
 
 )
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 23--22
+Overfull \hbox (5.77148pt too wide) in paragraph at lines 23--21
 \TU/courier-prime(0)/m/n/9 in the night it was still the same old story un-till
  an even older
  []
@@ -463,443 +463,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--19
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 21--25
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
- []
-
-
-Overfull \hbox (27.35742pt too wide) in paragraph at lines 26--29
-\TU/courier-prime(0)/m/n/9 ou en-core pire, en quoi con-siste une av-o-cate. de
-s lois il y a maintes 
  []
 
 [3
 
-] (./Nid.tex
-Overfull \hbox (0.375pt too wide) in paragraph at lines 1--6
-\TU/courier-prime(0)/m/n/9 Pour Jolie c’est la dernière et six-ième an-née
- à Mon-tréal elle se
- []
+]
 
+! LaTeX Error: File `Nid.tex' not found.
 
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 1--6
-\TU/courier-prime(0)/m/n/9 trouve au même nid depuis deux étés. Trois col-lo
--ques, toutes gen-
- []
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
 
+Enter file name: 
+./master.tex:27: Emergency stop.
+<read *> 
+   
+l.27 \input{Nid.tex}
+                  
+End of file on the terminal!
 
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 1--6
-\TU/courier-prime(0)/m/n/9 tilles, le grille pain est ef-fi-cace, il y a une pe
--tite ga-lerie en
- []
 
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 1--6
-\TU/courier-prime(0)/m/n/9 avant avec un set de pa-tio éclec-tique, des tas de
- coussins et des
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--6
-
- []
-
-
-Overfull \hbox (14.01341pt too wide) in paragraph at lines 7--13
-[]\TU/courier-prime(0)/m/n/9 C’est le début de l’été elle s’as-soit su
-r l’un des fau-teuils, fait
- []
-
-
-Overfull \hbox (21.96094pt too wide) in paragraph at lines 7--13
-\TU/courier-prime(0)/m/n/9 ses lec-tures en après-midi. Elle a ap-porté avec 
-elle de-hors quelques
- []
-
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 7--13
-\TU/courier-prime(0)/m/n/9 vol-umes de poésie et des re-vues type national-geo
-graphic avec des
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 7--13
-\TU/courier-prime(0)/m/n/9 grandes pho-tos de mam-mifères marins im-menses et 
-pais-i-bles et des
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 7--13
-\TU/courier-prime(0)/m/n/9 chutes d’eau trop-i-cales comme si c’était le m
-onde dans lequel on
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--13
-
- []
-
-
-Overfull \hbox (3.22044pt too wide) in paragraph at lines 14--23
-[]\TU/courier-prime(0)/m/n/9 La rue Cas-grain lui fait face elle prend une paus
-e pour s’étirer
- []
-
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 14--23
-\TU/courier-prime(0)/m/n/9 une heure ou deux après s’être réveil-lée, boi
-t un café et fait du
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 14--23
-\TU/courier-prime(0)/m/n/9 peo-ple watch-ing en mangeant une courge spaghetti. 
-Elle range un peu
- []
-
-
-Overfull \hbox (11.16797pt too wide) in paragraph at lines 14--23
-\TU/courier-prime(0)/m/n/9 les coussins, taponne le tout, un bol de salade au c
-ous-cous traîne
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 14--23
-\TU/courier-prime(0)/m/n/9 quelque part, une dernière bouchée, le soleil ne d
-e-vrait pas tarder
- []
-
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 14--23
-\TU/courier-prime(0)/m/n/9 à s’étein-dre. Depuis qua-tre ou cinq mois c’e
-st Cé-dric qui vis-ite,
- []
-
-
-Overfull \hbox (11.16797pt too wide) in paragraph at lines 14--23
-\TU/courier-prime(0)/m/n/9 plus je-une de quelques an-nées, il est mignon et g
-en-til quelque peu
- []
-
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 14--23
-\TU/courier-prime(0)/m/n/9 naïf et anx-ieux, mais il sé-duit avec ses yeux nu
-ageux d’ailleurs,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--23
-
- []
-
-
-Overfull \hbox (14.01341pt too wide) in paragraph at lines 24--38
-[]\TU/courier-prime(0)/m/n/9 Il débar-que de son vélo lui glisse un sourire s
-’assied a terre lui
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 de-mande de racon-ter sa journée. Il reste de la lu
--mière ils en prof-
- []
-
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 i-tent pour en faire de l’el-lipse le temps ça se
- ca-resse ça se do-
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 mes-tique, on lui donne des com-man-des avec des bis
--cuits et du choco-
- []
-
-
-Overfull \hbox (21.96094pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 lat les min-utes grésil-lent comme un bruit blanc l
-e ciel délavé vieux
- []
-
-
-Overfull \hbox (11.16797pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 jeans. La cham-bre est à repein-dre juste les bo-be
-ttes à remet-tre il
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 en met partout il se tache et elle se fout de sa gue
-ule il n’est
- []
-
-
-Overfull \hbox (21.96094pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 pas doué. La pizza est à terre Jolie aussi, as-sis
-e en lo-tus la bière
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 aux lèvres. Ça finit dans le lit, même si l’ode
-ur de pein-ture c’est
- []
-
-
-Overfull \hbox (11.16797pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 pas gé-nial c’est l’été faut bien se gâter s
-e faire du bien. Ils se
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 promè-nent et mordil-lent les draps les draps vo-le
-nt Jolie chante.
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 C’est sim-ple et col-lant, ils s’en-dor-ment, co
-uchés en croix une tête
- []
-
-
-Overfull \hbox (43.54688pt too wide) in paragraph at lines 24--38
-\TU/courier-prime(0)/m/n/9 sur le ven-tre de l’autre, des or-eillers qui tra
-î-nent. Un peu de musique,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--38
-
- []
-
-
-Overfull \hbox (14.01341pt too wide) in paragraph at lines 39--40
-[]\TU/courier-prime(0)/m/n/9 Elle a un soupir, le chien aussi. Les deux ri-ent,
- ils s’en-dor-ment. 
- []
-
-[4
-
-] Excluding 'comment' comment.) (./dialoguePostNid.tex
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 3--4
-\TU/courier-prime(0)/m/it/9 Jolie et Cé-dric, à moitiés en-dormis dans le li
-t, les draps blancs
- []
-
-
-Overfull \hbox (21.96094pt too wide) in paragraph at lines 3--4
-\TU/courier-prime(0)/m/it/9 épars, légers, la dernière lueure de la journée
- a passé mais il fait
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 5--24
-\TU/courier-prime(0)/m/n/9 Et si j’avais loucher quand on s’était ren-con-
-tré, je t’au-rais quand
- []
-
-
-Overfull \hbox (11.16797pt too wide) in paragraph at lines 5--24
-\TU/courier-prime(0)/m/n/9 Si met-tons, quand on s’était ren-con-tré j’av
-ais eu qu’un seul sour-
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 5--24
-\TU/courier-prime(0)/m/n/9 si j’avais été para-plégique ? Ou mieux ! une
- femme tronc, sans bras
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 5--24
-\TU/courier-prime(0)/m/n/9 ni jambe ? Ça T’au-rais ex-cité ? Tu au-rais p
-ensé me faire l’amour
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 5--24
-\TU/courier-prime(0)/m/n/9 quand même quand nos re-gards se sont croisés à l
-’orée d’une ban-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
-
- []
-
-
-Overfull \hbox (14.01341pt too wide) in paragraph at lines 34--36
-[]\TU/courier-prime(0)/m/it/9 La nuit, une chan-delle qui lui au coin in-térie
-ur du bain sur pieds
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 34--36
-\TU/courier-prime(0)/m/it/9 dorés ro-co-cos. J. à moitié en-dormie la tête 
-ac-cotée de bi-ais sur
- []
-
-
-Overfull \hbox (21.96094pt too wide) in paragraph at lines 34--36
-\TU/courier-prime(0)/m/it/9 la paroi. Une vieille ra-dio qui sort de la musique
- d’am-biance, style
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 34--36
-\TU/courier-prime(0)/m/it/9 Brian Eno. La lu-mière jau-nie du lam-padaire de C
-as-grain qui lèche
- []
-
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 34--36
-\TU/courier-prime(0)/m/it/9 la fenêtre, 3 pieds de long, haute de 2. C af-fal
-é sur le tapis de
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 Écoute moi la, tu dors tu caliss, com-ment est-ce q
-ue t’ar-rives à
- []
-
-
-Overfull \hbox (11.16797pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 rien je me suis juste ren-due compte de com-ment on 
-était bien , la,
- []
-
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 juste la, et je voulais partager…mais non msieur d
-ort, a terre en
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 t’en en a man-qué des boutes jpense, c’est quoi
- qui s’est en-dormi
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 en pre-mier, j’étais ren-tré te re-join-dre pour
- jaser avant de dormir,
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 t’a fini par mar-mon-ner dans le bout de tes lèvr
-es pen-dant que je
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 te flat-tais les cheveux, jvoulais pas te laisser do
-rmir toute seule
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 euh, ouais met-tons, c’est surtout dan-gereux met-
-tons, dormir dans
- []
-
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 jte dis ça l’ar-rive, toute façon c’est quoi l
-’idée de dormir dans
- []
-
-
-Overfull \hbox (0.375pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/it/9 C se replie lente-ment, recule en glis-sant et s
-’ac-cote le dos sur
- []
-
-
-Overfull \hbox (11.16797pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/it/9 la porte \TU/courier-prime(0)/m/n/9 en plus ouais 
-…!, non mais ça peux faire des dé-gats d’eau
- []
-
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 tu sais, si tu t’en-dors les pieds au dessus des r
-obi-nets de même,
- []
-
-
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 eille sérieux, tu sonnes comme une noune crisse-men
-t frip-pée en ce
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 Oui par-faite-ment, il y en qui s’en-dor-ment avec
- une clope et foutent
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 le feu…et il y a Jolie qui s’en-dort dans le bai
-n en écoutant du Eno 
- []
-
-
-Overfull \hbox (11.16797pt too wide) in paragraph at lines 37--72
-\TU/courier-prime(0)/m/n/9 ohhh t’es cute tu dis n’im-porte quoi, vient don
-c me faire un calin 
- []
-
-[5
-
-
-])
-Overfull \hbox (5.77148pt too wide) in paragraph at lines 73--37
-\TU/courier-prime(0)/m/n/9 On était 5 amis, dans un bar, au coins de st-lauren
-t je crois. Je
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 73--37
-\TU/courier-prime(0)/m/n/9 J’étais tout seul chez moi et je ve-nais de fumer
- un pa-quet de boute
- []
-
-
-Overfull \hbox (16.56445pt too wide) in paragraph at lines 73--37
-\TU/courier-prime(0)/m/n/9 en boute, Mes poumons goutaient le sul-fur et j’av
-ais ou-blié la rai-
- []
-
-[6] [7] (./master.aux))
 
 Here is how much of LuaTeX's memory you used:
- 12243 strings out of 493864
- 100000,383344 words of node,token memory allocated
- 410 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 48 glue_spec,
- 5 attribute_list, 1 write nodes
-   avail lists: 1:1,2:109,3:108,4:1,5:26,6:11,7:3177,9:78,11:90
- 16823 multiletter control sequences out of 65536+600000
+ 12224 strings out of 493864
+ 100000,383344 words of node,token memory allocated 655 words of node memory still in use:
+   6 hlist, 1 rule, 2 local_par, 1 dir, 13 glue, 3 kern, 5 penalty, 13 glyph, 12
+ attribute, 48 glue_spec, 12 attribute_list, 3 write nodes
+   avail lists: 1:1,2:77,3:73,4:1,5:21,6:9,7:1435,9:50,11:38
+ 16821 multiletter control sequences out of 65536+600000
  43 fonts using 6791279 bytes
  52i,4n,71p,340b,429s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/share/fonts/TTF/Courier Prime Italic.ttf></usr/share/fonts/TTF/Courier Pri
-me.ttf></usr/share/fonts/TTF/Courier Prime Bold.ttf>
-Output written on master.pdf (7 pages, 58396 bytes).
-
-PDF statistics: 47 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+./master.tex:27:  ==> Fatal error occurred, no output PDF file produced!
