@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1586200137 "master.tex" "master.pdf" "master" 1586200137
+["pdflatex"] 1586832886 "master.tex" "master.pdf" "master" 1586832887
   "/home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/courier-prime-bold-italic.luc" 1585591196 39486 f3afec2bc6a955f6879aae367e793e4f ""
   "/home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/courier-prime-bold.luc" 1585591196 38850 e257757e9d3b418757f19a0fd75744f8 ""
   "/home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/courier-prime-italic.luc" 1585591196 39094 901f0bfe45075d97d7baf60a4957c747 ""
@@ -7,6 +7,9 @@
   "/home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1586036474 124218 8f419c5ea55679a7b7b27d0c866e6928 ""
   "/home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1585591196 132144 4a14d6624b6c49efd6e0df877a9177ca ""
   "/home/spirou/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1585590786 123147 dadd5adc93992c73ab54e60db83aabef ""
+  "/usr/share/fonts/TTF/Courier Prime Bold.ttf" 1585159446 91368 bcc8e2ea2b9b2456e3095812bb1e189f ""
+  "/usr/share/fonts/TTF/Courier Prime Italic.ttf" 1585159446 96196 3c11d9a02851f2c9e56efa0fab493e56 ""
+  "/usr/share/fonts/TTF/Courier Prime.ttf" 1585159446 98156 c94e49765ec47b72f1cec8a8c4ef14c5 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1572595918 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/share/texmf-dist/tex/generic/unicode-data/CaseFolding.txt" 1572595918 82624 900e76da1d822a160fd6b8c0b1d70094 ""
   "/usr/share/texmf-dist/tex/generic/unicode-data/SpecialCasing.txt" 1572595918 16830 e517fe1ac2549a3f0647fbc1e2b2df83 ""
@@ -31,13 +34,14 @@
   "/usr/share/texmf-dist/tex/luatex/lualibs/lualibs-extended.lua" 1572595918 4894 788132acfaf05394117da617b5a863fa ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1585610302 4572998 f9631eebba48c3ee98e5d310044b0a09 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1585610290 1400557 f8e050d15270d110589b634668c1bfb7 ""
-  "Nid.tex" 0 -1 0 ""
   "brunch.tex" 1586021828 946 eb71acc438979e7545aee4073caed402 ""
-  "master.aux" 1586051467 781 c222cea1fbe2ca92118a3afef6513835 "pdflatex"
-  "master.tex" 1586200136 502 b465bbe52a706709b6c020403279fe6f ""
+  "guilt.tex" 1586832881 270 60b7735b31c6808cc96324d097bbe6b0 ""
+  "here.tex" 1586832650 1194 60200d9464d94308e84299124466c2c5 ""
+  "master.aux" 1586832887 675 f8567a0df5586f17a45da0c653398192 "pdflatex"
+  "master.tex" 1586832757 485 91586a741fd9adf8fbf48132ff266789 ""
   "morning.tex" 1586022352 1404 72814907011c7c2f3724de4157c9fb67 ""
   "pills.tex" 1586020982 878 bde2778e32260c591bdd206c688d80c5 ""
   (generated)
   "master.aux"
-  "master.log"
   "master.pdf"
+  "master.log"

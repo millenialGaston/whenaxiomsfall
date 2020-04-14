@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Arch Linux)  (format=lualatex 2020.3.30)  6 APR 2020 15:08
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Arch Linux)  (format=lualatex 2020.3.30)  13 APR 2020 22:54
  restricted system commands enabled.
  file:line:error style messages enabled.
 **master.tex
@@ -56,7 +56,7 @@ Lua module: luaotfload-multiscript 2019-09-13 3.00 luaotfload submodule / multis
 cript
 Inserting `luaotfload.rewrite_fontname' at position 5 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.094 seconds
+luaotfload | main : initialization completed in 0.099 seconds
 (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/size10.clo
@@ -469,30 +469,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
 [3
 
-]
+] (./here.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--18
 
-! LaTeX Error: File `Nid.tex' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
-
-Enter file name: 
-./master.tex:27: Emergency stop.
-<read *> 
-   
-l.27 \input{Nid.tex}
-                  
-End of file on the terminal!
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 19--29
+
+ []
+
+) [4
+
+] (./guilt.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--32
+
+ []
+
+[5
+
+] (./master.aux))
 
 Here is how much of LuaTeX's memory you used:
- 12224 strings out of 493864
- 100000,383344 words of node,token memory allocated 655 words of node memory still in use:
-   6 hlist, 1 rule, 2 local_par, 1 dir, 13 glue, 3 kern, 5 penalty, 13 glyph, 12
- attribute, 48 glue_spec, 12 attribute_list, 3 write nodes
-   avail lists: 1:1,2:77,3:73,4:1,5:21,6:9,7:1435,9:50,11:38
- 16821 multiletter control sequences out of 65536+600000
+ 12242 strings out of 493864
+ 100000,383344 words of node,token memory allocated
+ 410 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 48 glue_spec,
+ 5 attribute_list, 1 write nodes
+   avail lists: 1:1,2:97,3:80,4:1,5:22,6:11,7:1458,9:52,11:42
+ 16822 multiletter control sequences out of 65536+600000
  43 fonts using 6791279 bytes
  52i,4n,71p,340b,429s stack positions out of 5000i,500n,10000p,200000b,100000s
-./master.tex:27:  ==> Fatal error occurred, no output PDF file produced!
+</usr/share/fonts/TTF/Courier Prime Italic.ttf></usr/share/fonts/TTF/Courier Pri
+me.ttf></usr/share/fonts/TTF/Courier Prime Bold.ttf>
+Output written on master.pdf (5 pages, 45481 bytes).
+
+PDF statistics: 41 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
