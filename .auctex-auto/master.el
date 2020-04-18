@@ -11,14 +11,19 @@
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
+    "envy"
+    "aftermath"
     "pills"
     "morning"
     "brunch"
     "here"
+    "cars"
     "guilt"
+    "howso"
     "article"
     "art10"
     "fontspec"
+    "titlesec"
     "comment"))
  :latex)
 

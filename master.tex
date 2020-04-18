@@ -1,9 +1,14 @@
 % ! TEX root = master.tex
 \documentclass{article}
 \usepackage{fontspec}
+\usepackage{titlesec}
 \usepackage{comment}
 \setmainfont{courier-prime}
+\titlespacing*{\section}
+{0pt}{5.5ex plus 1ex minus .2ex}{4.3ex plus .2ex}
 
+\titlespacing*{\subsection}
+{0pt}{5.5ex plus 1ex minus .2ex}{4.3ex plus .2ex}
 \begin{document}
 
 \setlength{\parindent}{0.1cm}
@@ -11,6 +16,13 @@
 
 
 % sections
+\section{atfirst}
+\subsection{envy}
+\input{envy.tex}
+\clearpage
+\subsection{aftermath}
+\input{aftermath.tex}
+
 \clearpage
 \section{agitated}
 \subsection{pills}
@@ -27,6 +39,15 @@
 \subsection{here}
 \input{here.tex}
 \clearpage
+\subsection{cars}
+\input{cars.tex}
+\clearpage
 \subsection{guilt}
 \input{guilt.tex}
+
+\clearpage
+\section{far}
+\subsection{how so}
+\input{howso}
+
 \end{document}
