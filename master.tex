@@ -1,19 +1,26 @@
 % ! TEX root = master.tex
 \documentclass{article}
+
 \usepackage{fontspec}
 \usepackage{titlesec}
+\usepackage{xcolor}
 \usepackage{comment}
+
 \setmainfont{courier-prime}
+\newfontfamily\setgara[Ligatures=TeX]{ebgaramond}
+\newfontfamily\sethack[Ligatures=TeX]{Hack}
+
 \titlespacing*{\section}
 {0pt}{5.5ex plus 1ex minus .2ex}{4.3ex plus .2ex}
 
 \titlespacing*{\subsection}
 {0pt}{5.5ex plus 1ex minus .2ex}{4.3ex plus .2ex}
+
+
 \begin{document}
 
 \setlength{\parindent}{0.1cm}
 \small
-
 
 % sections
 \section{atfirst}
@@ -27,22 +34,20 @@
 \input{cars.tex}
 \clearpage
 
-\subsection{agitated}
-\input{agitated.tex}
-\clearpage
-\subsection{pills}
+\section{pills}
+\subsection{absence}
 \input{pills.tex}
 \clearpage
+\subsection{morning}
+\input{morning.tex}
+\clearpage
 
-\section{winds}
+\section{also}
 \subsection{here}
 \input{here.tex}
 \clearpage
 \subsection{guilt}
 \input{guilt.tex}
-\clearpage
-\subsection{morning}
-\input{morning.tex}
 \clearpage
 \subsection{brunch}
 \input{brunch.tex}
@@ -52,6 +57,9 @@
 \section{far}
 \subsection{how so}
 \input{howso}
+\clearpage
+\subsection{maybe}
+\input{enough}
 \clearpage
 
 \end{document}
