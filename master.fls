@@ -85,6 +85,8 @@ INPUT ./pills.tex
 INPUT ./pills.tex
 INPUT ./morning.tex
 INPUT ./morning.tex
+INPUT ./evening.tex
+INPUT ./evening.tex
 INPUT ./here.tex
 INPUT ./here.tex
 INPUT ./guilt.tex
@@ -95,4 +97,14 @@ INPUT ./howso.tex
 INPUT ./howso.tex
 INPUT ./enough.tex
 INPUT ./enough.tex
+INPUT ./waiting.tex
+INPUT ./waiting.tex
+INPUT ./thelastone.tex
+INPUT ./thelastone.tex
+INPUT ./uncertainty.tex
+INPUT ./uncertainty.tex
+INPUT ./sleep.tex
+INPUT ./sleep.tex
+INPUT ./somewhere.tex
+INPUT ./somewhere.tex
 INPUT ./master.aux

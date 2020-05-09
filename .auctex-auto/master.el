@@ -14,17 +14,26 @@
     "envy"
     "aftermath"
     "cars"
-    "agitated"
     "pills"
+    "morning"
+    "evening"
     "here"
     "guilt"
-    "morning"
     "brunch"
     "howso"
+    "enough"
+    "waiting"
+    "thelastone"
+    "uncertainty"
+    "sleep"
     "article"
     "art10"
     "fontspec"
     "titlesec"
-    "comment"))
+    "xcolor"
+    "comment")
+   (LaTeX-add-fontspec-newfontcmds
+    "setgara"
+    "sethack"))
  :latex)
 
